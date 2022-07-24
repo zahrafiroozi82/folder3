@@ -1,0 +1,171 @@
+body {
+  background-image: url(imag/tree2.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.div1 {
+  width: 500px;
+  height: 550px;
+  background-image: url(imag/66.jpg);
+  background-clip: content-box;
+  background-origin: content-box;
+  padding: 13px;
+  box-sizing: border-box;
+  margin: auto;
+  margin-top: 65px;
+  border: 6px;
+  border-style: double;
+  border-radius: 20px;
+  border-color: brown;
+}
+.div2 {
+  width: 380px;
+  height: 450px;
+  box-sizing: border-box;
+  margin: auto;
+  margin-top: 30px;
+  border: 5px;
+  border-style: outset;
+  border-radius: 10px;
+  border-color: rgb(73, 71, 71);
+  background-image: url(imag/black.png);
+  background-clip: content-box;
+  background-origin: content-box;
+  padding: 8px;
+}
+.p1 {
+  direction: rtl;
+  padding-right: 10px;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  bottom: 10px;
+  color: aliceblue;
+  font-weight: bold;
+  font-style: normal;
+}
+.p2 {
+  direction: rtl;
+  color: rgba(135, 138, 141, 0.877);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: relative;
+  bottom: 20px;
+  font-size: small;
+  padding-right: 10px;
+}
+.form1 {
+  direction: rtl;
+}
+label {
+  color: aliceblue;
+  padding-right: 20px;
+}
+.lable1 {
+  padding-right: 20px;
+}
+.lable5 {
+  position: relative;
+  bottom: 60px;
+}
+input {
+  border: 2px;
+  border-style: solid;
+  border-color: brown;
+  border-radius: 8px;
+}
+textarea {
+  border: 2px;
+  border-style: solid;
+  border-color: brown;
+  border-radius: 8px;
+}
+#in6 {
+  background-color: green;
+  width: 80%;
+  position: relative;
+  right: 35px;
+  top: 10px;
+}
+.p3 {
+  direction: rtl;
+  color: aliceblue;
+  text-align: center;
+}
+.div3 {
+  width: 500px;
+  height: 550px;
+  background-image: url(imag/66.jpg);
+  background-clip: content-box;
+  background-origin: content-box;
+  padding: 13px;
+  box-sizing: border-box;
+  margin: auto;
+  margin-top: 65px;
+  border: 6px;
+  border-style: double;
+  border-radius: 20px;
+  border-color: brown;
+}
+.div4 {
+  width: 380px;
+  height: 450px;
+  box-sizing: border-box;
+  margin: auto;
+  margin-top: 30px;
+  border: 5px;
+  border-style: outset;
+  border-radius: 10px;
+  border-color: rgb(73, 71, 71);
+  background-image: url(imag/black.png);
+  background-clip: content-box;
+  background-origin: content-box;
+  padding: 8px;
+}
+.form2 {
+  direction: rtl;
+  position: relative;
+  top: 53px;
+  left: 35px;
+  border: solid;
+  border-color: aliceblue;
+  border-radius: 10px;
+  width: 250px;
+  height: 300px;
+}
+.legend1 {
+  color: aliceblue;
+  font-weight: bold;
+}
+#in7 {
+  width: 80px;
+}
+#in8 {
+  position: relative;
+  right: 20px;
+  bottom: 10px;
+}
+#in9 {
+  position: relative;
+  right: 80px;
+  bottom: 10px;
+  color: aliceblue;
+}
+.z {
+  position: relative;
+  right: 20px;
+  bottom: 10px;
+}
+#in10 {
+  width: 80%;
+  position: relative;
+  right: 20px;
+  bottom: 20px;
+}
+#s {
+  background-color: green;
+  width: 50%;
+  position: relative;
+  right: 55px;
+  top: 2px;
+}
